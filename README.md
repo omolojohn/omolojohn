@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding, finance & accounting concepts
 - 📫 How to reach me; email johnmwai425@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy cooking but I don't like eating.
+- ⚡ Fun fact:
 
 <!---
 omolojohn/omolojohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
